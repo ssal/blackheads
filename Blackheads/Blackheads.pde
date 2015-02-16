@@ -18,7 +18,7 @@ void setup(){
   background(255);
   noStroke();
   smooth();
-  size(displayWidth,displayHeight);
+  size(screen.width,screen.height);
   
   addbh();
   
