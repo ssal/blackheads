@@ -55,7 +55,7 @@ body {
     font-family: monospace;
 }
 
-body {
+body, head, canvas {
     padding: 0;
     margin: 0;
 }
