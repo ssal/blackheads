@@ -1,6 +1,6 @@
 #blackheads
 
-You shouldn't [Google this](https://www.google.co.kr/search?client=safari&rls=en&q=blackheads&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=3zXgVLvWDMem8weL-4GACw).
+You shouldn't [Google blackheads](https://www.google.co.kr/search?client=safari&rls=en&q=blackheads&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=3zXgVLvWDMem8weL-4GACw). never.
 
 
 ####License
