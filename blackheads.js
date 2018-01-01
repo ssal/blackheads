@@ -133,7 +133,7 @@ function Talker(ili){
 	this.draw = function(){
 		if(this.popped){
 			if(this.gb < 255) this.gb += 63.5;
-			else this = null;
+			// else this = null; // TODO: find another way to call the garbage collector
 		}
 
 		stroke(255,this.gb,this.gb);
